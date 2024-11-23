@@ -1,0 +1,12 @@
+.idea {
+    background-color: #343634;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.idea h2 {
+    color: white;
+    margin: 0;
+    padding-top: 5rem;
+    font-size: 2rem;
+}

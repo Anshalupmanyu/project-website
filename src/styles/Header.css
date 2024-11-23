@@ -1,0 +1,15 @@
+.hero {
+    background-color: #343634;
+    color: white;
+    padding: 10rem;
+    margin: 50px;
+  }
+  
+.project-name {
+    font-size: 3rem;
+    margin: 0;
+  }
+  
+main {
+    padding: 2rem;
+  }
